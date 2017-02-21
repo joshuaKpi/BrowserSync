@@ -1,0 +1,2 @@
+# BrowserSync
+Template with browserSync
